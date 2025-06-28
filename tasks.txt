@@ -1,1 +1,6 @@
-[Task {title = "Ivan", category = "de", dueDate = Just 2023-04-23, priority = Medium},Task {title = "Pellalta", category = "guapo", dueDate = Just 2024-03-12, priority = High},Task {title = "Manuel", category = "Persona", dueDate = Nothing, priority = Low},Task {title = "Leo", category = "LL", dueDate = Nothing, priority = Medium}]
+[
+  Task { title = "Ivan",     category = "de",     dueDate = Just 2023-04-23, priority = Medium },
+  Task { title = "Pellalta", category = "guapo",  dueDate = Just 2024-03-12, priority = High },
+  Task { title = "Manuel",   category = "Persona",dueDate = Nothing,         priority = Low },
+  Task { title = "Leo",      category = "LL",     dueDate = Nothing,         priority = Medium }
+]
